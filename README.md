@@ -1,9 +1,6 @@
 # 💻 PSeInt — Algoritmos simples, ideas poderosas ✨
 
-<p align="center">
-  <img src="img/pseint.png" width="700">
-</p>
-
+https://drive.google.com/file/d/1MkyjFbO5XdvGpIv7u7RzYg1DSuUrECd9/view?usp=sharing
 ## 🧠 ¿Qué es PSeInt?
 
 PSeInt es una herramienta que permite crear y practicar algoritmos mediante pseudocódigo de una forma sencilla.
